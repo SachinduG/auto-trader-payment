@@ -7,7 +7,7 @@ Member Details:
 |S. M. Jayasekara |IT19161648 |shamoda
 |Weerasinghe S.S. |IT19204680 |senath99
 |Wickramasinghe R.J.P. |IT19151052 |Jayamith
-|Perera K. U. D. |IT19168364 |UmeshDananjaya
+|Gimhana P. S. |IT19143682 |SachinduG
 
 
 ## Project Description
